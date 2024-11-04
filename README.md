@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Anderson!
 
-🎓 21 anos | 🖥️ Programador Front-End | 📘 Estudante na EBAC - Escola Britânica de Artes e Tecnologia
+🎓 21 anos | 🖥️ Programador Front-End | 📘 Estudante na EBAC - Escola Britânica de Artes Criativas e Tecnologia
 
 Minha jornada com a tecnologia começou aos 14 anos quando ainda na escola fiz parte da equipe de robótica Destemidos 🤖, onde desenvolvi meu interesse por programação e inovação. Desde então, venho me dedicando ao desenvolvimento web, com foco em front-end.
 
